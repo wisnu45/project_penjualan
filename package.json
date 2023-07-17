@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "nxt": "^0.0.0",
+    "pre": "^0.1.3",
+    "product-container": "^0.0.1"
+  },
+  "name": "project_penjualan",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wisnu",
+  "license": "ISC"
+}
